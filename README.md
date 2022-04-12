@@ -11,10 +11,10 @@
 ---
 
 
-<p>&nbsp;<img scale="50%" align="center" src="Skills.svg"/></p>
+<p>&nbsp;<img scale="50%" align="center" src="Skills.svg"  width="400" height="600" /></p>
 
 ---
-<p>&nbsp;<img scale="50%" align="left" src="Language.svg" />
+<p>&nbsp;<img scale="50%" align="left" src="Language.svg"  width="400" height="600"/>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhi-1u&show_icons=true&locale=en" alt="abhi-1u" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-1u&" alt="abhi-1u" /></p>
 <!--
