@@ -11,11 +11,11 @@
 ---
 
 
-<span><img scale="50%" align="left" src="Skills.svg"  width="400" height="600" /><img scale="50%" align="right" src="Language.svg"  width="400" height="600"/></span>
+<span><img scale="50%" align="left" src="Skills.svg"  width="400" height="400" /><img scale="50%" align="right" src="Language.svg"  width="400" height="400"/></span>
 
 ---
-<span><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhi-1u&show_icons=true&locale=en" alt="abhi-1u" width="400" height="600" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-1u&" alt="abhi-1u" width="400" height="600" /></span>
+<span><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhi-1u&show_icons=true&locale=en" alt="abhi-1u" width="400" height="200" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-1u&" alt="abhi-1u" width="400" height="200" /></span>
 <!--
 **Abhi-1U/Abhi-1U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
