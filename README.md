@@ -1,17 +1,12 @@
-### Hi there 👋, my name is Abhishek U
+### Hi there 👋, my name is Abhishek Ulayil
 ---
 #### I Work on Projects that interest me! 
 
-- 🔭 I’m currently working on **REST.32SE for ESP-32 Board**
-
-- 🌱 I’m currently learning **Database Mechanics, RTOS, Linux Kernel**
-
-
 - ⚡ Fun fact **I make LaTeX PDF documents for Fun.**
-<hr/><br/>
-<span>
-<img scale="50%" align="left" src="Skills.svg"  width="400" height="400" /><img scale="50%" align="right" src="Language.svg"  width="400" height="400"/>
-</span>
+<hr/>
+
+![GSoC Contributor](gsoc.svg)
+
  <hr/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=abhi-1u&show_icons=true&locale=en" alt="abhi-1u" width="400" height="200" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-1u&" alt="abhi-1u" width="400" height="200" />
