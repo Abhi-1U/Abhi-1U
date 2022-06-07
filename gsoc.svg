@@ -41,7 +41,7 @@
      id="namedview32"
      showgrid="false"
      inkscape:zoom="1.8509968"
-     inkscape:cx="44.752252"
+     inkscape:cx="-61.947015"
      inkscape:cy="45.541827"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -51,29 +51,29 @@
      transform="translate(0, 47.81207 ) scale(1,-1) translate(0,47.81207 )"
      id="g28">
     <g
+       id="g26"
        stroke="#000"
-       fill="#000"
-       id="g26">
+       fill="#000">
       <g
-         stroke-width="0.4"
-         id="g24">
+         id="g24"
+         stroke-width="0.4">
         <g
-           fill="#ff9600"
-           id="g4">
+           id="g4"
+           fill="#ff9600">
           <path
              d=" M 0.0 0.0 M 42.67911 0.0 C 42.67911 23.57132 23.57132 42.67911 0.0 42.67911 C -23.57132 42.67911 -42.67911 23.57132 -42.67911 0.0 C -42.67911 -23.57132 -23.57132 -42.67911 0.0 -42.67911 C 23.57132 -42.67911 42.67911 -23.57132 42.67911 0.0 Z M 0.0 0.0  "
-             stroke="none"
-             id="path2" />
+             id="path2"
+             stroke="none" />
         </g>
         <g
-           fill="#005082"
-           id="g12">
+           id="g12"
+           fill="#005082">
           <g
-             stroke="#fff"
-             id="g10">
+             id="g10"
+             stroke="#fff">
             <g
-               stroke-width="3.5"
-               id="g8">
+               id="g8"
+               stroke-width="3.5">
               <path
                  d=" M 0.0 0.0 M 34.1432 0.0 C 34.1432 18.85701 18.85701 34.1432 0.0 34.1432 C -18.85701 34.1432 -34.1432 18.85701 -34.1432 0.0 C -34.1432 -18.85701 -18.85701 -34.1432 0.0 -34.1432 C 18.85701 -34.1432 34.1432 -18.85701 34.1432 0.0 Z M 0.0 0.0  "
                  id="path6" />
@@ -84,21 +84,21 @@
            transform="translate(-28.45274,-2.73749)"
            id="g22">
           <g
-             fill="#000"
-             id="g20">
+             id="g20"
+             fill="#000">
             <text
                style="stroke:none"
                transform="scale(1,-1) translate(28.45274,0)"
-               text-anchor="middle"
-               fill="white"
                font-size="10.95"
-               id="text18">
+               id="text18"
+               text-anchor="middle"
+               fill="white">
               <g
-                 fill="#fff"
-                 id="g16">
+                 id="g16"
+                 fill="#fff">
                 <g
-                   stroke="none"
-                   id="g14">
+                   id="g14"
+                   stroke="none">
                   <div
                      class="center">
                     <span
@@ -125,24 +125,24 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:15.99999928px;line-height:1.25;font-family:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.74999994;-inkscape-font-specification:'Ubuntu, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-     x="-31"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99999905px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.74999994"
+     x="-0.61096966"
      y="-4"
      id="text40"><tspan
        sodipodi:role="line"
        id="tspan38"
-       x="-31"
+       x="-0.61097157"
        y="-4"
-       style="font-size:15.99999928px;fill:#ffffff;stroke-width:0.74999994;-inkscape-font-specification:'Ubuntu, Normal';font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">GSoC-22</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99999905px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.74999994">GSoC-22</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:9.99999955px;line-height:1.25;font-family:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.74999994;-inkscape-font-specification:'Ubuntu, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-     x="-28.5"
-     y="15"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.74999994"
+     x="-0.94727916"
+     y="13.784439"
      id="text23"><tspan
        sodipodi:role="line"
        id="tspan21"
-       x="-28.5"
-       y="15"
-       style="font-size:9.99999955px;fill:#ffffff;stroke-width:0.74999994;-inkscape-font-specification:'Ubuntu, Normal';font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Contributor</tspan></text>
+       x="-0.94727916"
+       y="13.784439"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.74999994">Contributor</tspan></text>
 </svg>
