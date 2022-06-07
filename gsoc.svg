@@ -12,7 +12,7 @@
    viewBox="-42.67911 -47.81207 85.35822 95.62415 "
    version="1.1"
    id="svg30"
-   sodipodi:docname="main-4.svg"
+   sodipodi:docname="gsoc.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata36">
@@ -41,7 +41,7 @@
      id="namedview32"
      showgrid="false"
      inkscape:zoom="1.8509968"
-     inkscape:cx="144.6984"
+     inkscape:cx="44.752252"
      inkscape:cy="45.541827"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -125,7 +125,7 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.74999994"
+     style="font-style:normal;font-weight:normal;font-size:15.99999928px;line-height:1.25;font-family:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.74999994;-inkscape-font-specification:'Ubuntu, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      x="-31"
      y="-4"
      id="text40"><tspan
@@ -133,16 +133,16 @@
        id="tspan38"
        x="-31"
        y="-4"
-       style="font-size:14px;fill:#ffffff;stroke-width:0.74999994">GSoC-22</tspan></text>
-   <text
+       style="font-size:15.99999928px;fill:#ffffff;stroke-width:0.74999994;-inkscape-font-specification:'Ubuntu, Normal';font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">GSoC-22</tspan></text>
+  <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:6px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.74999994"
+     style="font-style:normal;font-weight:normal;font-size:9.99999955px;line-height:1.25;font-family:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.74999994;-inkscape-font-specification:'Ubuntu, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      x="-28.5"
      y="15"
-     id="text40"><tspan
+     id="text23"><tspan
        sodipodi:role="line"
-       id="tspan38"
+       id="tspan21"
        x="-28.5"
        y="15"
-       style="font-size:10px;fill:#ffffff;stroke-width:0.74999994">Contributor</tspan></text>
+       style="font-size:9.99999955px;fill:#ffffff;stroke-width:0.74999994;-inkscape-font-specification:'Ubuntu, Normal';font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Contributor</tspan></text>
 </svg>
