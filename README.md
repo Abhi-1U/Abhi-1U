@@ -1,6 +1,7 @@
 
 [![GSoC Contributor](https://abhi-1u.github.io/template_samples/img/gsoc22.svg)](https://summerofcode.withgoogle.com/programs/2022/projects/8jppNXtC) 
 [![GSoC Contributor](https://abhi-1u.github.io/template_samples/img/gsoc23.svg)](https://summerofcode.withgoogle.com/programs/2023/projects/4ygPTJA9)
+[![UseR 2024 Speaker](https://abhi-1u.github.io/template_samples/img/keynote-speaker-user-conference-2024.png)](https://events.linuxfoundation.org/user/)
 
 <!--
 **Abhi-1U/Abhi-1U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
